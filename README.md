@@ -1,8 +1,8 @@
 ![umeeka's GitHub Banner](./standard.gif)
-### Hi there 👋
+# Greetings folks
 
-- 🔭 I’m currently working on my teams project of classifying ml project
-- 🌱 I’m currently learning computer science and engineering 
+- 🔭 I’m a Machine Learning Engineering working on the way for Data science mastery
+- 🌱 I’m learning and devloping in various coding languages
 - 🤔 I’m looking for help with deep learning projects
-- 📫 How to reach me: umika.khugsal.cseaiml.2020@miet.ac.in 
-- ⚡ Fun fact: Pink color light has every color wavelength but green
+- 📫 How to reach me: ukhugsal@gmail.com 
+- ⚡ Fun fact: The color pink is just light without green wavelength
